@@ -12,7 +12,7 @@ on:
     - cron: 0 20 * * *
   release:
     types: [published]
-# schedule:
+# schedule: 12312
 
 jobs:
 
